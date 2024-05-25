@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/MIKIMARUXHUB/English/main/V2.lua%20(1).txt'),true))()
